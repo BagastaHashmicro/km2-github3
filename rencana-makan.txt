@@ -4,3 +4,6 @@ Makan sarapan :
 
 Makan Siang :
 - Ayam goreng tepung
+
+Makan Malam : 
+- Nasi Goreng
